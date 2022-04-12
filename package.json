@@ -1,0 +1,26 @@
+{
+  "name": "@crometrics/gatsby-plugin-convert-js",
+  "description": "A Gatsby plugin to add a Convert JS Snippet to your site",
+  "version": "1.0.1",
+  "main": "gatsby-ssr.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CROmetrics/gatsby-plugin-convert-js.git"
+  },
+  "author": "Andrew Wessels <andrew.wessels@crometrics.com>",
+  "license": "MIT",
+  "keywords": [
+    "convert",
+    "convert javascript",
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/CROmetrics/gatsby-plugin-convert-js/issues"
+  },
+  "homepage": "https://github.com/CROmetrics/gatsby-plugin-convert-js#readme",
+  "peerDependencies": {
+    "gatsby": "^2 || ^3 || ^4"
+  }
+}
